@@ -4,7 +4,8 @@ An interactive Power BI dashboard analyzing workforce composition and employee a
 
 ## 📊 Dashboard Preview
 
-[Insert dashboard screenshot here]
+[Insert dashboard screenshot here]<img width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
+
 
 ## 🎯 Project Objective
 
