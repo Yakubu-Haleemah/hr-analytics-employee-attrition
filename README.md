@@ -4,10 +4,15 @@ An interactive Power BI dashboard analyzing workforce composition and employee a
 
 ## 📊 Dashboard Preview
 
-[Insert dashboard screenshot here]<img width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
+### Workforce Overview
+[Workforce Overview]< width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
+
+### Attrition Analysis
+[Attrition Analysis](<img width="997" height="726" alt="attrition-analysis" src="https://github.com/user-attachments/assets/d1149137-d610-41ef-89ac-50d6dc09dd13" />
 
 
-## 🎯 Project Objective
+
+## Project Objective
 
 To analyze workforce and attrition patterns and present the findings through an interactive HR dashboard.
 
