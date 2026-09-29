@@ -5,10 +5,10 @@ An interactive Power BI dashboard analyzing workforce composition and employee a
 ## 📊 Dashboard Preview
 
 ### Workforce Overview
-[Workforce Overview]<img width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
+![Workforce Overview]<img width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
 
 ### Attrition Analysis
-[Attrition Analysis]<img width="997" height="726" alt="attrition-analysis" src="https://github.com/user-attachments/assets/d1149137-d610-41ef-89ac-50d6dc09dd13" />
+![Attrition Analysis]<img width="997" height="726" alt="attrition-analysis" src="https://github.com/user-attachments/assets/d1149137-d610-41ef-89ac-50d6dc09dd13" />
 
 
 
