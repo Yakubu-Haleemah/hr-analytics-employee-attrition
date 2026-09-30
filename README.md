@@ -101,7 +101,15 @@ Interactive navigation and slicers allow users to explore different segments of 
 
 ## Recommendations
 
-The analysis highlights areas for further investigation, including high-attrition departments, the 25–34 age group, overtime patterns, and job satisfaction.
+Based on the patterns identified in the analysis, the following areas could be considered for further HR investigation:
+
+- Investigate attrition within Research & Development and Sales to understand whether specific roles, teams, or employment conditions are contributing to higher employee exits.
+- Examine the 25–34 age group more closely, particularly the factors influencing employee retention within this segment.
+- Review overtime patterns and assess whether workload or work-life balance may be associated with employee attrition.
+- Monitor job satisfaction alongside attrition to identify areas where employee experience may require attention.
+- Use workforce and attrition data regularly to identify emerging patterns and support proactive employee-retention strategies.
+
+These recommendations are intended as areas for further investigation rather than conclusions about the causes of attrition, since the analysis identifies patterns and associations rather than proving causation.
 
 ## Author
 
