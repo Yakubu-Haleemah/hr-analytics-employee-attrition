@@ -93,11 +93,14 @@ Interactive navigation and slicers allow users to explore different segments of 
 
 ## Key Insights
 
-- The 25–34 age group was the largest workforce segment, with 554 employees.
-- The 25–34 age group recorded the highest number of attritions, with 112 employee exits.
-- Research & Development recorded 133 attritions, followed by Sales with 92.
-- The workforce consisted of 60% male and 40% female employees.
-- Attrition patterns varied across job satisfaction level
+The analysis revealed several notable patterns within the workforce:
+
+- The 25–34 age group represented the largest workforce segment, with 554 employees.
+- The 25–34 age group also recorded the highest number of attritions, with 112 employee exits.
+- Research & Development recorded the highest number of attritions at 133, followed by Sales with 92.
+- The workforce consisted of approximately 60% male and 40% female employees.
+- Attrition patterns varied across job satisfaction levels, indicating that employee satisfaction is an area worth examining alongside attrition.
+- Employees working overtime showed a different attrition pattern from employees who did not work overtime, highlighting overtime as another factor for further investigation.
 
 ## Recommendations
 
@@ -109,7 +112,12 @@ Based on the patterns identified in the analysis, the following areas could be c
 - Monitor job satisfaction alongside attrition to identify areas where employee experience may require attention.
 - Use workforce and attrition data regularly to identify emerging patterns and support proactive employee-retention strategies.
 
-These recommendations are intended as areas for further investigation rather than conclusions about the causes of attrition, since the analysis identifies patterns and associations rather than proving causation.
+## Conclusion
+
+This project demonstrates how employee-level data can be transformed into an interactive HR analytics dashboard that provides a clearer view of workforce composition and employee attrition.
+
+By combining Excel for data exploration with Power BI and DAX for analysis and visualization, the project highlights how data analytics can help HR teams identify workforce patterns, investigate potential areas of concern, and support evidence-based decision-making.
+
 
 ## Author
 
