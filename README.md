@@ -1,6 +1,7 @@
 # HR Analytics — Employee Attrition & Workforce Analysis
 
-An interactive Power BI dashboard analyzing workforce composition and employee attrition across 1,470 employees.
+An interactive Power BI dashboard analyzing workforce composition and employee attrition across 1,470 employees. The project explores employee demographics, job characteristics, compensation, satisfaction, and employment related factors to identify patterns in workforce structure and attrition.
+The analysis was designed to provide a clear view of organization's workforce and highlight areas that may require further investigation from an HR and employee-retention perspective.
 
 ## 📊 Dashboard Preview
 
