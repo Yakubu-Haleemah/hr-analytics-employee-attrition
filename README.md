@@ -47,37 +47,40 @@ The dataset contains employee-level information covering:
 The project followed a structured analytics workflow:
 
 1. Data Exploration
+   
    Reviewed the dataset structure, columns, data types, and employee attributes.
 
 2. Data Validation & Preparation
+   
    Checked for missing values, duplicates, data consistency, and appropriate data types before analysis.
 
 3. Exploratory Data Analysis
+   
    Examined workforce composition and explored patterns across demographics, departments, job roles, job levels, overtime, satisfaction, and other employment-related variables.
 
 4. KPI Development
+   
    Created measures to track total employees, attrition count, attrition rate, and retained employees.
 
 5. Dashboard Development
+    
    Built an interactive Power BI dashboard consisting of two analytical pages: Workforce Overview and Attrition Analysis.
 
 ## Dashboard Preview
 
-1. Workforce Overview
+### 1. Workforce Overview
 
 The Workforce Overview page provides a high-level view of the organization's employee population. It examines workforce distribution across key demographic and employment characteristics, helping users understand who makes up the workforce.
 
-### Workforce Overview
 [Workforce Overview]<img width="1033" height="730" alt="workforce-overview" src="https://github.com/user-attachments/assets/e73a5ae1-5b72-4423-92c2-eb536b22d893" />
 
-2. Attrition Analysis
+### 2. Attrition Analysis
 
 The Attrition Analysis page focuses on employee exits and explores how attrition varies across factors such as age group, department, job role, job satisfaction, and overtime status.
 
 Interactive navigation and slicers allow users to explore different segments of the workforce and investigate patterns within the data.
 
-### Attrition Analysis
-[Attrition Analysis]<img width="997" height="726" alt="attrition-analysis" src="https://github.com/user-attachments/assets/d1149137-d610-41ef-89ac-50d6dc09dd13" 
+[Attrition Analysis]<img width="997" height="726" alt="attrition-analysis" src="https://github.com/user-attachments/assets/d1149137-d610-41ef-89ac-50d6dc09dd13" />
 
 ## Key Metrics
 
